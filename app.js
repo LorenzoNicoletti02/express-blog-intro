@@ -17,6 +17,7 @@ app.get("/", (request, response) => {
     response.send("<h1>Ciaone vengo dal server</h1>");
 })
 
+// Creo un'altra rotta 
 app.get("/Bacheca", (request, response) => {
     const objectReturn = {arrayRicette};
     response.json(objectReturn);
