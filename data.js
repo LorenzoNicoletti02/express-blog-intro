@@ -5,31 +5,31 @@ const arrayRicette = [
   {
     titolo: "Ciambellone",
     contenuto: "Non c'è contenuto",
-    immagine: "./public/ciambellone.jpeg",
+    immagine: "public/images/ciambellone.jpeg",
     tags: arrayTag[0],
   },
   {
     titolo: "Cracker Barbabietola",
     contenuto: "Non c'è contenuto",
-    immagine: "./public/cracker_barbabietola.jpeg",
+    immagine: "public/images/cracker_barbabietola.jpeg",
     tags: arrayTag[1],
   },
   {
     titolo: "Pane fritto dolce",
     contenuto: "Non c'è contenuto",
-    immagine: "./public/pane_fritto_dolce.jpeg",
+    immagine: "public/images/pane_fritto_dolce.jpeg",
     tags: arrayTag[0],
   },
   {
     titolo: "Pasta barbabietola",
     contenuto: "Non c'è contenuto",
-    immagine: "./public/pasta_barbabietola.jpeg",
+    immagine: "public/images/pasta_barbabietola.jpeg",
     tags: arrayTag[1],
   },
   {
     titolo: "Torta paesana",
     contenuto: "Non c'è contenuto",
-    immagine: "./public/torta_paesana.jpeg",
+    immagine: "public/images/torta_paesana.jpeg",
     tags: arrayTag[0],
   },
 ];
